@@ -8,7 +8,6 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 
 const BodyBox3 = () => {
     
-
   return (
     <div className=' md:mt-36 md:mx-10  '>
         <div className=' bg-[#FFF1F1] p-10 pt-20 md:p-24 rounded-lg flex flex-col '>
