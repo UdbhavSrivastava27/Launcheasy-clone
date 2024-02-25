@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import logo from "../Assest/Logo.png";
 import { MdOutlineArrowDropDown } from "react-icons/md";
-import { GiHamburgerMenu } from "react-icons/gi";
 
 const NavBar = () => {
   const [setToggle, setSetToggle] = useState(false);
