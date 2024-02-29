@@ -19,7 +19,7 @@ const BodyBox4 = () => {
             </p>
           </div>
 
-          <div className=" flex flex-col  border-2 rounded-2xl mx-10 md:mx-0 py-7 p-4 w-full md:w-44 space-y-2">
+          <div className=" flex flex-col  border-2 rounded-2xl mx-10 md:mx-0 md:py-7 p-4 w-full md:w-44 space-y-2">
             <h1 className=" text-5xl font-extralight ">$60K</h1>
             <p className=" text-sm text-[#6F6F6F]">
             Saved on annual marketing expenditure
