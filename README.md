@@ -1,9 +1,9 @@
 
-LaunchEasy Clone Project
+# LaunchEasy Clone Project
 
 This project is a clone of a Figma design, implemented using React.js and Tailwind CSS. It aims to replicate the layout and design of a Figma file while incorporating animations and responsive design.
 
-##Project Deploy Link : https://launcheasy-clone.vercel.app/
+### `Project Deploy Link` : https://launcheasy-clone.vercel.app/
 
 
 ### `Features`
