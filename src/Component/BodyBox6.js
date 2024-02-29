@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import handpic from '/Users//udbha/launch-easy-assigment/src/Assest/✋🏻.png'
+import handpic from '../Assest/✋🏻.png'
 const BodyBox6 = () => {
 
     const [inputValue, setInputValue] = useState("");

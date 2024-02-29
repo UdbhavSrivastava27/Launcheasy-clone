@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import Typewriter from "typewriter-effect";
 
-import live from "/Users//udbha/launch-easy-assigment/src/Assest/Live.png";
-import icon from "/Users//udbha/launch-easy-assigment/src/Assest/icon.png"
+import live from "../Assest/Live.png";
+import icon from "../Assest/icon.png"
 
 const BodyBox1 = () => {
 

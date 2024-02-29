@@ -1,8 +1,8 @@
 import React from 'react'
 import { MdArrowOutward } from "react-icons/md";
-import img1 from '/Users//udbha/launch-easy-assigment/src/Assest/smallBoxImg 1.png'
-import img2 from '/Users//udbha/launch-easy-assigment/src/Assest/smallBoxImg 3.png'
-import img3 from '/Users//udbha/launch-easy-assigment/src/Assest/smallBoxImg 2.png'
+import img1 from '../Assest/smallBoxImg 1.png'
+import img2 from '../Assest/smallBoxImg 2.png'
+import img3 from '../Assest/smallBoxImg 3.png'
 import { MdKeyboardArrowRight } from "react-icons/md";
 
 

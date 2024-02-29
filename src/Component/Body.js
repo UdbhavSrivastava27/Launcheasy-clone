@@ -1,12 +1,12 @@
 import React from "react";
 
-import BodyBox2 from "./BodyBox2";
-import BodyBox3 from "./BodyBox3";
+import BodyBox2 from "../Component/BodyBox2";
+import BodyBox3 from "../Component/BodyBox3";
 
-import BodyBox1 from "./BodyBox1";
-import BodyBox4 from "./BodyBox4";
-import BodyBox5 from "./BodyBox5";
-import BodyBox6 from "./BodyBox6";
+import BodyBox1 from "../Component/BodyBox1";
+import BodyBox4 from "../Component/BodyBox4";
+import BodyBox5 from "../Component/BodyBox5";
+import BodyBox6 from "../Component/BodyBox6";
 
 const Body = () => {
   return (

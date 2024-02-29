@@ -1,6 +1,6 @@
 
 import './App.css';
-import Body from './Component/Bodycomponent/Body';
+import Body from './Component/Body';
 import Footer from './Component/Footer';
 import NavBar from './Component/NavBar';
 

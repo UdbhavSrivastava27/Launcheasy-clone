@@ -38,7 +38,7 @@ const InnerBoxFooter = () => {
             type="text"
             value={inputValue}
             onChange={handleChange}
-            placeholder="Enter your work email"
+            placeholder="Enter your mail"
             className=" w-full md:w-6/12  p-2 rounded-md text-lg "
           />
 

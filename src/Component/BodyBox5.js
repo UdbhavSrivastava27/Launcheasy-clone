@@ -12,7 +12,7 @@ const BodyBox5 = () => {
         <button className='text-white bg-black rounded-lg text-sm p-4 px-6'>Join the waitlist</button>
       </div>
 
-      <div className='scroll-smooth md:w-7/12 p-4 mx-auto md:px-8 space-y-4 overflow-x-auto overflow-y-auto max-h-[500px] hide-scrollbar'>
+      <div className='scroll-smooth md:w-7/12 p-4 mx-auto md:px-8 space-y-4 overflow-x-auto md:overflow-y-auto max-h-[500px] hide-scrollbar space-y-2'>
   <div className='h-72 rounded-xl bg-[#A6C8FF] p-6'>
     <h1 className='font-semibold'>Reputation Management</h1>
     <p>Improve online reputation and business listings.</p>

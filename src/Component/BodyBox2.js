@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Carousel from '../Carousel';
+import Carousel from '../Component/Carousel';
 import { PiNumberCircleOneLight, PiNumberCircleThreeLight, PiNumberCircleTwoLight } from "react-icons/pi";
 
 const BodyBox2 = () => {
