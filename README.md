@@ -5,7 +5,8 @@ This project is a clone of a Figma design, implemented using React.js and Tailwi
 
 ##Project Deploy Link : https://launcheasy-clone.vercel.app/
 
-##Features
+
+### `Features`
 
 Figma Design Cloning: The project accurately replicates the design and layout of a Figma file, ensuring fidelity to the original design.
 
